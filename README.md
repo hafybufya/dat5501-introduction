@@ -18,3 +18,6 @@ Python 3.10 or newer to run python files
 * No external python libraries required
 
 
+
+## 📄 License
+This project is open source and available under the [MIT License](https://github.com/hafybufya/dat5501-introduction/blob/main/LICENSE).
